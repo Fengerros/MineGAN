@@ -1,6 +1,7 @@
 # MineGAN
 ## Minecraft skin generator using artificial intelligence
 
+in development
 
 ## Dataset
 
